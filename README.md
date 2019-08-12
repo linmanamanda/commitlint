@@ -55,4 +55,7 @@ module.exports = {
 	// ...
 }
 ```
+## 效果
+不符合规范时的`commitlint`提示
+符合时正常提交`commit`
 
