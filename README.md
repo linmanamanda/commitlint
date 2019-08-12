@@ -57,5 +57,7 @@ module.exports = {
 ```
 ## 效果
 不符合规范时的`commitlint`提示
+![](https://markdown-1259719089.cos.ap-chengdu.myqcloud.com/20190812092008.png)
 符合时正常提交`commit`
+![](https://markdown-1259719089.cos.ap-chengdu.myqcloud.com/20190812092107.png)
 
